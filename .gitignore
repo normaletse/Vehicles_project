@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+.DS_Store
+
